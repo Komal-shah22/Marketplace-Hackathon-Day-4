@@ -18,8 +18,8 @@ This is a dynamic e-commerce clothing website template that provides a seamless 
 - **Product Detail Page**: Detailed product information with images, descriptions, and pricing.
 - **Cart**: Add, manage, and review items before purchasing.
 - **Checkout Page**: A smooth checkout process to complete purchases.
-- **Login**: Save favorite items for future reference.
-- **Signup**: Track your orders after purchase.
+- **Login**: Allows users to securely log in to their accounts. Users can access their saved favorite items, view past orders, and manage their account settings.
+- **Signup**:  Provides a user-friendly form for creating a new account. New users can sign up to track their orders, save favorite products, and manage their profile details.
 - **Contact Page**: A form for customers to reach out to support.
 - **Profile Page**: Manage user profile details.
 
@@ -42,23 +42,21 @@ This is a dynamic e-commerce clothing website template that provides a seamless 
 ## 📸 Screenshots
 
 - **Home Page**
-![imag alt]()
-- **Shop Page**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/home-page.jpg)
 - **All product**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/all-product.jpg)
 - **Cart Page**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/cart.jpg)
 - **Checkout Page**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/checkout.jpg)
 - **Login**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/login.jpg)
 - **Contact page**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/contact.jpg)
 - **Product Detail Page**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/product-detail.jpg)
 - **Signup**
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-4/blob/main/signup.jpg)
 
 
 ---
@@ -109,6 +107,15 @@ This is a dynamic e-commerce clothing website template that provides a seamless 
 
 ### 📧 Contact
 
+For inquiries or collaboration, feel free to reach out:
+
+- Email: komalfareed93@gmail.com
+
+- GitHub: KomalShah22
+
+
+
 
  
 
+"# Marketplace-Hackathon-Day-4" 
